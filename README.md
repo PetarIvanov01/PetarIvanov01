@@ -6,3 +6,5 @@
   - I’m interested in sports, and coding! 💪 
   - I'm open to new opportunities and skills! ⚡
 
+[![https://github.com/PetarIvanov01](https://img.shields.io/badge/Visit-My%20Website-blue)](https://www.example.com)
+
