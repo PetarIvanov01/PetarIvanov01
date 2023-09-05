@@ -13,7 +13,7 @@ I'm a passionate programmer currently studying at SoftUni University on the Java
 
 ## 🔧 My Tech Stack
 
-My digital toolkit is powered by the following technologies:
+My tech stack is powered by the following technologies:
 
 ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js Logo](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
