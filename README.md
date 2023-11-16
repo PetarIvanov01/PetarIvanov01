@@ -3,13 +3,13 @@
 
 # Hey there! 👋
 
-I'm Petar, a passionate programmer currently following the JavaScript curriculum at SoftUni University, which includes various modules from Basic to more Advanced concepts in the language. Over the past year, I have dedicated myself to honing my technical skills, expanding my knowledge in JavaScript, Node.js, React, MongoDB, and other cutting-edge technologies.
+I'm Petar, a passionate programmer currently following the JavaScript curriculum at SoftUni University, which includes various modules from Basic to more Advanced concepts in the language. Over the past year, I have dedicated myself to honing my technical skills and expanding my knowledge in JavaScript, Node.js, React, MongoDB, and other cutting-edge technologies.
 
 ## 💡 About Me
 
 - 💪 I'm not just into coding; I'm also a sports enthusiast!
 - ⚡ I'm always open to new opportunities to expand my skill set.
-- 🌟 Happy with my progress this year and committed to ongoing self-improvement.
+- 🌟 Satisfied for this year and motivated for the next.
 
 ## 🚀 Current Focus
 
