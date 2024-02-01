@@ -3,17 +3,17 @@
 
 # Hey there! 👋
 
-I'm Petar, a passionate programmer currently following the JavaScript curriculum at SoftUni University, which includes various modules from Basic to more Advanced concepts in the language. Over the past year, I have dedicated myself to honing my technical skills and expanding my knowledge in JavaScript, Node.js, React, MongoDB, and other cutting-edge technologies.
+I'm Petar, a passionate programmer who recently completed the JavaScript curriculum at SoftUni University. My journey has taken me through various modules covering fundamental to advanced concepts in the language. Currently, I am focused on enhancing my skills in front-end technologies, developing various projects with different technologies, and continually expanding my knowledge in the dynamic field of web development.
 
 ## 💡 About Me
 
-- 💪 I'm not just into coding; I'm also a sports enthusiast!
-- ⚡ I'm always open to new opportunities to expand my skill set.
-- 🌟 Satisfied for this year and motivated for the next.
+- 💪 Beyond coding, I'm a sports enthusiast!
+- ⚡ Always open to new opportunities for skill expansion.
+- 🌟 Satisfied with the progress from the past year, and motivated to keep pushing for more challenges ahead.
 
 ## 🚀 Current Focus
 
-- 🎯 **Goal:** Finding a job and kickstarting my career to provide value through my coding expertise.
+- 🎯 **Goal:** Seeking a job to kickstart my career and contribute value through coding expertise.
 - 🔄 **Philosophy:** Embracing the idea of constant work and improvement in various aspects of life.
 
 ## 🔧 My Tech Stack
@@ -21,6 +21,7 @@ I'm Petar, a passionate programmer currently following the JavaScript curriculum
 My tech stack is powered by the following technologies:
 
 ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript Logo](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js Logo](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React Logo](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MongoDB Logo](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
