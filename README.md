@@ -1,7 +1,6 @@
 I'm Petar.
 
-Objective: Focused on fundamentals and coding.
-Philosophy: I don’t leave anything on the table.
+- Philosophy: I don’t leave anything on the table.
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Black?style=for-the-badge&logo=github)](https://github.com/PetarIvanov01)
