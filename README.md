@@ -3,7 +3,7 @@
 
 # Hey there! 👋
 
-I'm Petar, a passionate programmer who recently completed the JavaScript curriculum at SoftUni University. My journey has taken me through various modules covering fundamental to advanced concepts in the language. Currently, I am focused on enhancing my skills in front-end technologies, developing various projects with different technologies, and continually expanding my knowledge in the dynamic field of web development.
+I'm Petar.
 
 ## 💡 About Me
 
