@@ -1,6 +1,5 @@
 I'm Petar.
 
-- *Philosophy*: Don’t leave anything on the table.
 
 ---
 - https://github.com/PetarIvanov01
