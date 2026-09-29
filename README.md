@@ -9,6 +9,7 @@ Curious about things like distributed systems, data structures and algorithms, a
 - [Uplody](https://github.com/PetarIvanov01/uploady) - A hierarchical file vault with folder management and direct S3-compatible uploads, including multipart uploads for large files. Built with React, Elysia, and PostgreSQL.
 - [Technical Blog](https://github.com/PetarIvanov01/tech-blogy) - Astro site for notes on backend development, distributed systems, and JavaScript.
 
----
-- https://github.com/PetarIvanov01
-- https://www.linkedin.com/in/petar-iv/
+
+## Contact
+
+[GitHub](https://github.com/PetarIvanov01) · [LinkedIn](https://www.linkedin.com/in/petar-iv/) · [petar.iv.dev@gmail.com](mailto:petar.iv.dev@gmail.com)
